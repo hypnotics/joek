@@ -4,7 +4,7 @@ _Updated: 2021-11-06_
 
 ## Introduction   
 
-These are my notes from my investigation of the strange case of Joe K and Being or Nothingness. You should know that I approach this from the perspective of a mystery to solve (Sherlock Holmes style), with the assumption that it's some sort of Alternate Reality Game. It really ticks all the boxes of an ARG to me, but I welcome and respect other opinions. Take these notes for what they are: an attempt to structure a lot of loose ends. /Elias
+These are notes from my investigation of the strange case of Joe K and Being or Nothingness. You should know that I approach this from the perspective of a mystery to solve (Sherlock Holmes style), with the assumption that it's some sort of Alternate Reality Game. It really ticks all the boxes of an ARG to me, but I welcome and respect other opinions. Take these notes for what they are: an attempt to structure a lot of loose ends. /Elias
 
 ---
 
@@ -150,9 +150,12 @@ Our Father (prayer) p.20
 
 ---
 ## Imagery
-- Escher "Drawing Hands"
+- [Escher "Drawing Hands"](https://www.researchgate.net/profile/Willis_Overton/publication/314046174/figure/download/fig1/AS:551209251028992@1508429934468/MC-Eschers-Drawing-Hands-C-2009-The-MC-Escher-Company-Holland-All-rights.png)
 - Cards (Giant Rat, Iris and Butterfly etc)
 - Stickers (Geometric unity, Whale/Dolphin/Seal, Butterfly, Flowers etc)
+
+The butterfly used on several instances is:
+https://en.wikipedia.org/wiki/Small_tortoiseshell
 
 ---
 ## Theories
