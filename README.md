@@ -161,8 +161,10 @@ https://en.wikipedia.org/wiki/Small_tortoiseshell
 ## Theories
 
 - **The Joke**
+Joe K = Joke
 
 - **The Alternate Reality Game**
+A real life Glass Bead Game
 
 - **The publicity stunt**  
 Joe K self/book promo   
@@ -171,7 +173,10 @@ Timbro
 Religious group
 
 - **The psycho**   
-Doomsday
+Doomsday theory (predicting end of the world)
+
+- **The Theory of Everything**
+Geometric Unity
 
 ---
 
