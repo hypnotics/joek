@@ -160,10 +160,10 @@ https://en.wikipedia.org/wiki/Small_tortoiseshell
 ---
 ## Theories
 
-- **The Joke**
+- **The Joke**.  
 Joe K = Joke
 
-- **The Alternate Reality Game**
+- **The Alternate Reality Game**.  
 A real life Glass Bead Game
 
 - **The publicity stunt**  
@@ -175,8 +175,13 @@ Religious group
 - **The psycho**   
 Doomsday theory (predicting end of the world)
 
-- **The Theory of Everything**
+- **The Theory of Everything**.  
 Geometric Unity
+
+- **Circada 3301**. 
+https://www.youtube.com/watch?v=syYQUCZZHbE&t=159s&ab_channel=VictorMalevich
+https://minutopi.se/joek/comment.png
+
 
 ---
 
