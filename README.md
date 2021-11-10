@@ -151,13 +151,35 @@ Our Father (prayer) p.20
 ---
 ## Imagery
 - [Escher "Drawing Hands"](https://www.researchgate.net/profile/Willis_Overton/publication/314046174/figure/download/fig1/AS:551209251028992@1508429934468/MC-Eschers-Drawing-Hands-C-2009-The-MC-Escher-Company-Holland-All-rights.png)
+Strong.  
+Hofstadter explaining strange loop
+
+Medium.  
+Frequent in Geometric Unity (Weinstein Twitter explaining GU)
+
+Weak.  
+Referenced in Psychology - The Identity of Opposites (Overton, 2010)  
+
+
 - Cards (Giant Rat, Iris and Butterfly etc)
+
 - Stickers (Geometric unity, Whale/Dolphin/Seal, Butterfly, Flowers etc)
 
 The butterfly used on several instances is:
 https://en.wikipedia.org/wiki/Small_tortoiseshell
 
 ---
+
+## Geography
+
+Göteborg, Sweden (Per N).  
+Cambridge, UK (David Deutch, Postcards)   
+Indiana, US (Hofstadter, Levi Shand)    
+What city is depicted on the postcard?   
+
+
+---
+
 ## Theories
 
 - **The Joke**.  
